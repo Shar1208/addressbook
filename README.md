@@ -1,4 +1,4 @@
-Adding hi there
+Adding
 
 Addressbook Tutorial
 ====================
